@@ -2,8 +2,6 @@
 
 GameHub is a web application that allows users to upload and download their own games seamlessly. This platform provides a user-friendly interface for managing game uploads, ensuring a smooth experience for both developers and gamers. 
 
-Sure! Here’s an in-depth section for the frontend part of your README, detailing the technologies, structure, and components used in the GameHub project.
-
 ---
 
 ## This is the Frontend
